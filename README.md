@@ -10,9 +10,7 @@ A unified platform that consolidates leading NFT marketplaces (e.g., Blur, OpenS
 
 ### Product preview
 
-<video src="src/main.mp4" controls width="800" muted playsinline>
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/214a92f8-0f82-49d1-b335-dd50d78cf39a
 
 <p align="center">
   <img src="src/1.png" width="45%" alt="Preview 1" />
