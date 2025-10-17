@@ -9,8 +9,10 @@ A unified platform that consolidates leading NFT marketplaces (e.g., Blur, OpenS
 - Comprehensive analytics: market data and signals to inform pricing and decisions
 
 ### Product preview
-> Video demo available in `src/main.mp4`.
 
+<video src="src/main.mp4" controls width="800" muted playsinline>
+  Your browser does not support the video tag.
+</video>
 
 <p align="center">
   <img src="src/1.png" width="45%" alt="Preview 1" />
@@ -30,17 +32,10 @@ A unified platform that consolidates leading NFT marketplaces (e.g., Blur, OpenS
 </p>
 <p align="center">
   <img src="src/9.png" width="45%" alt="Preview 9" />
-  <img src="src/10.png" width="45%" alt="Preview 10" />
-</p>
-<p align="center">
-  <img src="src/11.png" width="45%" alt="Preview 11" />
+  <img src="src/11.png" width="45%" alt="Preview 10" />
 </p>
 
-
-### Assets (`src/`)
-- All preview images and media live in `src/` for convenience.
-- Feel free to replace placeholders with your own assets while keeping file paths intact.
-- Recommended naming: lowercase, hyphen-separated (e.g., `portfolio-overview.png`).
+---
 
 ### Contacts
 
