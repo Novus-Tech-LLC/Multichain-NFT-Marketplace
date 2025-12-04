@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/214a92f8-0f82-49d1-b335-dd50d78cf39a
 | 📲 WhatsApp | [wa.me/14105015750](https://wa.me/14105015750) |
 | 💬 Discord | [discordapp.com/users/985432160498491473](https://discordapp.com/users/985432160498491473)
 
-<div align="center">
+<div align="left">
     <a href="https://t.me/novustch" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://wa.me/14105015750" target="_blank"><img alt="WhatsApp"
